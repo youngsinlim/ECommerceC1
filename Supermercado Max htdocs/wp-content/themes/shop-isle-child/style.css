@@ -1,0 +1,10 @@
+/*
+ Theme Name:   Supermercados Max
+ Theme URI:    https://supermercadosmax.com/
+ Description:  este es un tema hijo de shop-isle
+ Author:       Young Sin Lim
+ Template:     shop-isle
+ Version:      1.0.0
+ Text Domain:  shop-isle-child
+*/
+@import url("../shop-isle/style.css");

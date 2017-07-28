@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nao-pon/flysystem-google-drive": "~1.1"
+    }
+}

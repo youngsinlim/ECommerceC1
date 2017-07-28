@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gCAAiC;EAC/B,WAAW,EAAE,GAAG;;;AAGlB,cAAc;EACZ,QAAQ,EAAE,QAAQ",
+"sources": ["../sass/customizer-style.scss"],
+"names": [],
+"file": "customizer-style.css"
+}
